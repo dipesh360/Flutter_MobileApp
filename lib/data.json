@@ -1,0 +1,118 @@
+{
+  "response": "Success",
+  "message": "Data fetched Succesfully",
+  "data": [
+    {
+      "id": 1,
+      "name": "7 Plus",
+      "company": "Nokia",
+      "mobile_image": "http://firstoffer.co.in/images/phone/nokia7plus.jpg",
+      "price": 25000.5253,
+      "description": "Proud winner of the EISA Best Consumer Smartphone in 2018-2019, Nokia 7 Plus is purely a phone you can rely on. Watch your photos come to life with the 3 ultra-sensitive cameras featuring ZEISS Optics, ensuring you capture every detail, whether relaxing at the park or enjoying the ambiance of a low-lit cafe. And worry less about running low because the 2-day Adaptive Battery means you can enjoy your moments for longer on the 6\" Full-HD+ display.\r\nEnjoy a bigger viewing experience on the 6” Full-HD+ display with an 18:9 ratio, or watch and chat at the same time by splitting the screen into two 1:1 windows.",
+      "created_at": null,
+      "updated_at": null,
+      "details": {
+        "model": "2014",
+        "location": "finland"
+      }
+    },
+    {
+      "id": 2,
+      "name": "nord 2",
+      "company": "oneplus",
+      "mobile_image": "http://firstoffer.co.in/images/phone/nord2.png",
+      "price": 22000.626,
+      "description": "OnePlus Nord 2 comes with a 6.43-inch Fluid AMOLED type display featuring a screen resolution of 1080 x 2400 pixels. The bezel-less display of the smartphone carries a 20:9 aspect ratio and a pixel density of 409ppi besides Corning Gorilla Glass v5 coating. It also gets a refresh rate of 90Hz. \r\nThe smartphone carries a Triple-Camera configuration on its rear face. With a 50MP f/1.88 Primary Camera on the lead followed by an 8MP f/2.25 Ultra Wide Angle Camera and a 2MP f/2.4 Mono Camera. Additionally, there is a 32MP f/2.45 Primary Camera placed on the front.",
+      "created_at": null,
+      "updated_at": null,
+      "details": {
+        "model": "2014",
+        "location": "finland"
+      }
+    },
+    {
+      "id": 3,
+      "name": "f 17",
+      "company": "oppo",
+      "mobile_image": "http://firstoffer.co.in/images/phone/oppof17.jpg",
+      "price": 18000.3954,
+      "description": "Oppo F17 mobile was launched on 2nd September 2020. The phone comes with a 6.44-inch touchscreen display. Oppo F17 is powered by an octa-core Qualcomm Snapdragon 662 processor. It comes with 4GB of RAM. The Oppo F17 runs Android 10 and is powered by a 4000mAh battery. The Oppo F17 supports proprietary fast charging.\r\n\r\nAs far as the cameras are concerned, the Oppo F17 on the rear packs a 16-megapixel (f/2.2) primary camera; an 8-megapixel (f/2.2) camera; a 2-megapixel (f/2.4) camera, and a 2-megapixel (f/2.4) camera. The rear camera setup has autofocus. It sports a 16-megapixel camera on the front for selfies with an f/2.0 aperture.",
+      "created_at": null,
+      "updated_at": null,
+      "details": {
+        "model": "2014",
+        "location": "finland"
+      }
+    },
+    {
+      "id": 4,
+      "name": "iphone 13",
+      "company": "Apple",
+      "mobile_image": "http://firstoffer.co.in/images/phone/13.png",
+      "price": 68000.843,
+      "description": "The iPhone 13 and iPhone 13 mini iterate upon the successful iPhone 12 with new cameras and longer battery life. The notch has been reduced in size, and the rear camera module now sits at a diagonal. In addition, the A15 processor brings more speed and efficiency to every task",
+      "created_at": null,
+      "updated_at": null,
+      "details": {
+        "model": "2014",
+        "location": "finland"
+      }
+    },
+    {
+      "id": 5,
+      "name": "g 20",
+      "company": "motorola",
+      "mobile_image": null,
+      "price": 15000.654,
+      "description": "Motorola Moto G20 mobile was launched on 26th April 2021. The phone comes with a 6.50-inch touchscreen display offering a resolution of 720x1600 pixels at a pixel density of 269 pixels per inch (ppi) and an aspect ratio of 20:9. Motorola Moto G20 is powered by a 1.8GHz octa-core Unisoc T700 processor. It comes with 4GB of RAM. The Motorola Moto G20 runs Android 11 and is powered by a 5000mAh battery. The Motorola Moto G20 supports proprietary fast charging.\r\n\r\nAs far as the cameras are concerned, the Motorola Moto G20 on the rear packs a quad camera setup featuring a 48-megapixel (f/1.7, 1.6-micron) primary camera; an 8-megapixel (f/2.2, 1.12-micron) camera; a 2-megapixel (f/2.4, 1.75-micron) camera, and a 2-megapixel (f/2.4, 1.75-micron) camera. The rear camera setup has autofocus. It has a single front camera setup for selfies, featuring a 13-megapixel sensor with an f/2.2 aperture and a pixel size of 1.12-micron.",
+      "created_at": null,
+      "updated_at": null,
+      "details": {
+        "model": "2014",
+        "location": "finland"
+      }
+    },
+    {
+      "id": 6,
+      "name": "s 20",
+      "company": "samsung",
+      "mobile_image": "http://firstoffer.co.in/images/phone/s20.png",
+      "price": 55000.545,
+      "description": "Samsung Galaxy S20 mobile was launched on 11th February 2020. The phone comes with a 6.20-inch touchscreen display offering a resolution of 1440x3200 pixels and an aspect ratio of 20:9. Samsung Galaxy S20 is powered by a 2GHz octa-core Samsung Exynos 990 processor that features 2 cores clocked at 2.73GHz, 2 cores clocked at 2.5GHz and 4 cores clocked at 2GHz. It comes with 8GB of RAM. The Samsung Galaxy S20 runs Android 10 and is powered by a 4000mAh non-removable battery. The Samsung Galaxy S20 supports wireless charging, as well as proprietary fast charging.\r\n\r\nAs far as the cameras are concerned, the Samsung Galaxy S20 on the rear packs a 12-megapixel (f/1.8) primary camera; a 64-megapixel (f/2.0) camera, and a 12-megapixel (f/2.2) camera. The rear camera setup has autofocus. It sports a 10-megapixel camera on the front for selfies with an f/2.2 aperture. The front camera also features autofocus.",
+      "created_at": null,
+      "updated_at": null,
+      "details": {
+        "model": "2014",
+        "location": "finland"
+      }
+    },
+    {
+      "id": 7,
+      "name": "3310",
+      "company": "nokia",
+      "mobile_image": "http://firstoffer.co.in/images/phone/nokia3310.jpg",
+      "price": 4500.025,
+      "description": "Nokia 3310 4G mobile was launched in January 2018. The phone comes with a 2.40-inch display offering a resolution of 240x320 pixels.Nokia 3310 4G comes with 256MB of RAM. The Nokia 3310 4G runs Android and is powered by a 1200mAh removable battery.\r\n\r\nAs far as the cameras are concerned, the Nokia 3310 4G on the rear packs 2-megapixel camera.\r\n\r\nThe Nokia 3310 4G runs YunOS is based on Android and packs 512MB of inbuilt storage that can be expanded via microSD card (up to 64GB). The Nokia 3310 4G is a single SIM (GSM) mobile that accepts a Micro-SIM card. The Nokia 3310 4G measures 117.00 x 52.40 x 13.35mm (height x width x thickness) and weighs 88.10 grams. It was launched in Fresh Blue and Dark Black colours.",
+      "created_at": null,
+      "updated_at": null,
+      "details": {
+        "model": "2014",
+        "location": "finland"
+      }
+    },
+    {
+      "id": 8,
+      "name": "7",
+      "company": "realme",
+      "mobile_image": "http://firstoffer.co.in/images/phone/realme7.jpg",
+      "price": 9999.999,
+      "description": "The Realme 7 brings in three main upgrades over the Realme 6 — a new SoC, a bigger battery, and a new primary camera sensor. It features a mirror-split design, which creates some interesting patterns when light hits it. The Realme 7 is actually thicker (9.4mm) and heavier (196.5g) than the 6, due to its larger battery, and this is very noticeable in daily usage.\r\n\r\nThe Realme 7 is the first phone to debut with the MediaTek Helio G95 SoC. This is an updated version of the Helio G90T, which was seen in the Realme 6, but it's not a major upgrade. Performance is pretty satisfactory. The Realme 7 uses Realme UI, based on Android 10, which worked smoothly. Face recognition and the side-mounted fingerprint sensor are also quick. The Realme 7 is good with games too. Battle Prime looked great at the highest graphics settings and gameplay was smooth.",
+      "created_at": null,
+      "updated_at": null,
+      "details": {
+        "model": "2014",
+        "location": "finland"
+      }
+    }
+  ]
+}
